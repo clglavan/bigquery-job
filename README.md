@@ -1,5 +1,5 @@
 ## vulns-ossp
-Part of the sample implementation at https://earthroot.github.io/nvd-scrapper/
+Part of the sample implementation at https://clglavan.github.io/nvd-scrapper/
 
 # bigquery-job
 Launch a container that starts an import job to bq from gcs
